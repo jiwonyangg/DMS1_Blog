@@ -3,16 +3,7 @@ title: Week 1, Session 1
 published_at: 2024-03-05
 snippet: Homework Task - Week 1, Session 1
 ---
-
-Hello, world!
-
-# This is h1
-
-## This is h2
-
-_underline_
-
-**bold**
+# Week 1 - Session 1
 
 ![A Study Space Fit for a Sith Lord](/W01S1/S1-1.jpeg)
 This was the first photo we took. We didn't know where to start so we went to an area where another team member was more familiar with and found this area that seemed to fit the description.
