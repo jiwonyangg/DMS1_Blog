@@ -30,4 +30,4 @@ The very first hint the class was given was that the map is not a rectangular sh
 The library was the first place that we stepped into but we were so lost and confused that this installation was completely missed and we walked past it. We walked laps around the entire campus (where the map showed) going up and down, back and forth trying to find anything and then found this installation at the very last minute, before deciding to go back.
 
 ## My Favourite Space
-![My Favourite Space](/W01S1/S1-1 HW.mp4)
+![My Favourite Space](/W01S1/S1-1_HW.mp4)
