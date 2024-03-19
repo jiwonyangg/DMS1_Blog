@@ -3,7 +3,7 @@ title: Week 1, Session 1
 published_at: 2024-03-05
 snippet: Homework Task - Week 1, Session 1
 ---
-# Week 1 - Session 1
+# Scavenger Hunt
 
 ![A Study Space Fit for a Sith Lord](/W01S1/S1-1.jpeg)
 This was the first photo we took. We didn't know where to start so we went to an area where another team member was more familiar with and found this area that seemed to fit the description.
@@ -33,3 +33,6 @@ The library was the first place that we stepped into but we were so lost and con
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0PoLdSANJXE?si=Ix8mYBXYWVsLXCqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <video controls src="/W01S1/W1-S1_HW.mp4" title="Title"></video>
+
+<iframe src="https://player.vimeo.com/video/924654895?h=b8383d0a21" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/924654895">Ashkasha</a> from <a href="https://vimeo.com/laramaltz">Lara Maltz</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
