@@ -38,3 +38,5 @@ The library was the first place that we stepped into but we were so lost and con
 <p><a href="https://vimeo.com/924654895">Ashkasha</a> from <a href="https://vimeo.com/laramaltz">Lara Maltz</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <iframe width="1261" height="719" src="https://www.youtube.com/embed/kSWPj4MFYK4" title="Wolf&#39;s Talk Wave EP.8 (Feat. BANG, UNTARA, BLANK)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kSWPj4MFYK4?si=kt8iXN0iRnNWbN2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
