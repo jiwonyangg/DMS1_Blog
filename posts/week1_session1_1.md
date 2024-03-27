@@ -58,7 +58,7 @@ Places/Items Found | 7/10
 - [x] A book containing Digital Media wisdom, found amongst many
 - ~~A wide net strung above, bulging under the weight of its flying paper cargo~~
 - [x] A curtain of roots, delivered by a winged visitor
-- ~~A door for the condemned ~~
+- ~~A door for the condemned~~
 - ~~A study space fit for a Sith Lord~~
 - ~~The disembodied hands of a great ape~~
 - ~~A basement-dwelling Black Box, bigger than you might think~~
