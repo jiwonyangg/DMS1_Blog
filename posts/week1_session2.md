@@ -16,7 +16,7 @@ snippet: Homework Task - Experimenting with Premiere Pro
 <p><a href=https://www.youtube.com/embed/0PoLdSANJXE?si=Ix8mYBXYWVsLXCqI> Watch My Favourite Space on YouTube!</p>
 
 ## Classmates RAW Footage
-<p><a hred=https://youtu.be/yKcKWsoyEoE> Watch My Favourite Space by Classmate on Youtube!</p>
+<p><a href=https://youtu.be/yKcKWsoyEoE> Watch My Favourite Space by Classmate on Youtube!</p>
 
 ## Video 1 - Juxtaposition, Pacing & Rhythm
 <p><a href=https://youtu.be/yrrrhaYp8r8> Watch Video 1 - Juxtaposition, Pacing & Rhythm on Youtube!</p>
