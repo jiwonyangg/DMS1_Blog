@@ -4,12 +4,13 @@ published_at: 2024-03-14
 snippet: Homework Task - Experimenting with Audio
 ---
 # Experimenting with Audio
-{
-   **Task Outline**
+
+**Task Outline**
+
    For homework we were required to continue watching tutorial videos, this time focusing on audio. The task required us to experiment with audio clips we had sourced for our own project.
 
    The task also required us to identify a key moment in our sequence and write a discussion.
-}
+
 ## Audio Clip - Experimenting with Audio
 <video controls src="/W02S1/Soundtrack.mp4" title="Title"></video>
 <p><a href=https://youtu.be/oYtdE3fq4Yw> Watch Experimenting with Audio on YouTube!</p>
