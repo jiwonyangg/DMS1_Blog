@@ -45,6 +45,10 @@ The biggest idea and takeaway I got from the feedback is one of my peers recomme
 ![Storyboard Final](/W02S1/final2.jpg)
 ![Storyboard Final](/W02S1/final3.jpg)
 
+![Storyboard Final](/W02S1/final1.jpg)
+![Storyboard Final](/W02S1/final2.jpg)
+![Storyboard Final](/W02S1/final3.jpg)
+
 This is the final storyboard that I've come up with after peer feedback. Although along the way and while editing many things may change, this is the overall structure that I would like to follow. 
 
 My concerns for my storyboard, however, is that I've possibly added too many frames to fill within the 2 minute timeframe that we're given. Fortunately, I do have in mind which frames I wouldn't mind taking out (without changing the meaning and theme of my film) to fit within the timeframe.
