@@ -6,6 +6,7 @@ snippet: Homework Task - Scavenger Hunt
 # Scavenger Hunt
 
 **Task Outline**
+
    Documentation of in class scavenger hunt activity. The list of the scavenger hunt is as follows:
    1. An explosive cup of coffee
    2. A book containing Digital Media wisdom, found amongst many

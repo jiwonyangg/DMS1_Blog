@@ -6,6 +6,7 @@ snippet: Homework Task - Assignment 1 Draft
 # Assignment 1 Draft Video
 
 **Task Outline**
+
    Produce a draft video, based on the storyboard that was created, upload to YouTube and write a brief introduction.
 
 <video controls src="/W02S1/draft.mp4" title="Title"></video>
