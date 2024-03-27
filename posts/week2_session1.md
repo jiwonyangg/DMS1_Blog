@@ -7,7 +7,7 @@ snippet: Homework Task - Making a Storyboard
 
 **Task Outline**
 
-   The first portion of the homework task was to select any sequence, a movie, tv show, youtube video etc. The second part of our homework task was to create our own storyboard for assignment 1.
+   The first portion of the homework task was to select any sequence, a movie, tv show, youtube video etc. and create a storyboard. The second part of our homework task was to create our own storyboard for assignment 1.
 
 ## Practice Storyboard
 I chose the scene **'Chocolate Room'** from the 2005 Tim Burton film, **'Charlie and the Chocolate Factory.'** I drew up to roughly the 1:00-1:02 mark.
@@ -21,10 +21,9 @@ Initially, it was very difficult choosing where to finish the practice storyboar
 ## Storyboard Draft for Assignment 1
 ![Storyboard Draft](/W02S1/draft1.jpg)
 ![Storyboard Draft](/W02S1/draft2.jpg)
-
 The theme and message I want to convey is transition (not in the editing perspective, rather transitioning in life) and I would like it to seem like a vlog type of video mixed with my point of view (POV). I wasn't too sure about making a film purely about my personality and interests so I decided to go with my life within the past 2 years. I want the audience to get an insight to how I felt like in a degree where it was only studying and how that affected me, and now transitioning into a more interactive and creative degree, in which I have freedom to express my views and passion through my work. Towards the beginning I want the audience to feel calm which later turns to stress/anxiety, transitioning into feelings of being lost and finally being able to let go of my past and walk into the future with a lighter load.
 
-The storyboard will start off with my background of being a "Bachelor of Science" student from 'The University of Melbourne.' I went through 2 years of this degree initially with excitement, later with realisation that I don't want to study for possibly 10 years, in something that I'm not 100% passionate about. I wanted to convey the quarter-life crisis that I found myself in because back in school I was so desperate to graduate as soon as I possibly could that I didn't want to give myself the option of transferring courses because it initially felt like a "waste of time" to me. 
+The storyboard will start off with my background of being a "Bachelor of Science" student from 'The University of Melbourne.' I went through 2 years of this degree initially with excitement, later with realisation that I don't want to study for possibly 10 years, in something that I'm not 100% passionate about. I wanted to convey the "quarter-life crisis" that I found myself in because back in school I was so desperate to graduate as soon as I possibly could that I didn't want to give myself the option of transferring courses because it initially felt like a "waste of time" to me. 
 
 The storyboard shows the initial sequence with an excessive amount of studying, to show how my past 2 years I was bombarded with content and no time, and still feeling like I didn't study enough even when I spent days with pure study. 
 
@@ -32,19 +31,16 @@ As the papers get thrown off the table, this becomes the turning point for chang
 
 I purposely made it so that my new 'RMIT' life is portrayed not just "fun" and "happy" but rather a new beginning, so I'm hoping for the audio to instill a sense of anxiety or feelings of being lost. I used the clip of playing music as a way to show this idea of a "new beginning" and added a minor detail that the song is "Time of our Life - DAY6" to symbolise that I may not get another opportunity like this again.
 
-Continuity will be maintained through the chronological passing of time and making sure that the outfits are the same i.e. at the start I'm only wearing my "Bachelor of Science" hoodie and towards the end I'm only in casual wear. I'm going to make sure that the passing of time will show the correct sunrise to sunset, so that the viewer is aware time is passing. The main thing is that I need to pay attention to all the details (including filiming ratio) that are within the shots, especially with placement and how each transition (e.g. fading to black or white) will make sense with the next frame.
+Continuity will be maintained through the chronological passing of time and making sure that the outfits are the same i.e. at the start I'm only wearing my "Bachelor of Science" hoodie and towards the end I'm only in casual wear. I'm going to make sure that the passing of time will show the correct sunrise to sunset, so that the viewer is aware time is passing. The main thing is that I need to pay attention to is all the details (including filiming ratio) that are within the shots, especially with placement and how each transition (e.g. fading to black or white) will make sense with the next frame.
 
 ## Storyboard Feedback
 ![Storyboard Feedback](/W02S1/change1.jpg)
 ![Storyboard Feedback](/W02S1/change2.jpg)
-
 The biggest idea and takeaway I got from the feedback is one of my peers recommending the studying scene to show myself moving in different positions, as I was explaining how I thought it would be difficult to film for the whole day (as my initial idea was to show the passsing of time through the sun setting). This will definitely be an area to be modified for the final storyboard.
 
-## Storyboard Final
-![Storyboard Final](/W02S1/final1.jpg)
-![Storyboard Final](/W02S1/final2.jpg)
-![Storyboard Final](/W02S1/final3.jpg)
+The less important changes are written in green, directly on the storyboard.
 
+## Storyboard Final
 ![Storyboard Final](/W02S1/final1.jpg)
 ![Storyboard Final](/W02S1/final2.jpg)
 ![Storyboard Final](/W02S1/final3.jpg)
