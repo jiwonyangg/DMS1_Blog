@@ -12,7 +12,6 @@ snippet: Homework Task - Experimenting with Audio
    The task also required us to identify a key moment in our sequence and write a discussion.
 
 ## Audio Clip - Experimenting with Audio
-<video controls src="/W02S1/Soundtrack.mp4" title="Title"></video>
 <p><a href=https://youtu.be/oYtdE3fq4Yw> Watch Experimenting with Audio on YouTube!</p>
 
 **Audio Sources**

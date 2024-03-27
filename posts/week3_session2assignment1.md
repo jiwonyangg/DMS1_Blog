@@ -4,7 +4,6 @@ published_at: 2024-03-27
 snippet: Assignment 1
 ---
 # Assignment 1 Video
-<video controls src="/W02S1/Assignment1.mp4" title="Title"></video>
 <p><a href=https://youtu.be/eIqIqkROdic> Watch Assignment 1 on YouTube!</p>
 
 **Audio Sources**

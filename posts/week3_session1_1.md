@@ -11,7 +11,6 @@ snippet: Classwork - Editing Sounds into Videos
    
    Once the videos were filmed we were to choose a video from another groups and edit sound onto the footage to enhance the visual elements through editing of sound.
 ## Video Edit with Music and SFX
-<video controls src="/W02S1/week3classedit.mp4" title="Title"></video>
 <p><a href=https://youtu.be/iafWxaoYvQs> Watch Video Edit with Music and SFX on YouTube!</p>
 
 **Audio Sources**

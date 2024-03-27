@@ -16,11 +16,9 @@ snippet: Homework Task - Experimenting with Premiere Pro
 <p><a href=https://www.youtube.com/embed/0PoLdSANJXE?si=Ix8mYBXYWVsLXCqI> Watch My Favourite Space on YouTube!</p>
 
 ## Classmates RAW Footage
-<video controls src="/W01S1/W01S2.MOV" title="Title"></video>
 <p><a hred=https://youtu.be/yKcKWsoyEoE> Watch My Favourite Space by Classmate on Youtube!</p>
 
 ## Video 1 - Juxtaposition, Pacing & Rhythm
-<video controls src="/W01S1/W01S2cut.mp4" title="Title"></video>
 <p><a href=https://youtu.be/yrrrhaYp8r8> Watch Video 1 - Juxtaposition, Pacing & Rhythm on Youtube!</p>
 
 Because this was the first time I was ever exposed to Premiere Pro, I kept things very simple to start getting used to things. I wasn't too sure about how to explore Juxtaposition, Pacing and Rhythm all at once within 30 seconds, but I manipulated the speed of the footage and switched up the audio and visual footage for each clip (so my clip would have the audio of my classmates and vice versa). 
@@ -30,7 +28,6 @@ I went into this task with no thoughts at all and just freestyled - no plans. I 
 After reviewing the video, I wouldn't necessarily say that I'm proud? but definitely feel satisfied that I was able to produce something with my very limited knowledge of Premiere Pro, so I was somewhat successful overall. However, if I could do this task again, I would definitely try to experiment more with more cuts and try making it messier so that I can properly explore all the features there are.
 
 ## Video 2 - Transitions
-<video controls src="/W01S1/W01S2transition.mp4" title="Title"></video>
 <p><a href=https://youtu.be/54-kl1_jyro> Watch Video 2 - Transitions on Youtube!</p>
 
 In my opinion, I think this was much more fun to do, in comparison to the first video task just because it was so interesting to see how many different transitions were possible. Therefore, there was an endless amount of outcomes that were able to be made. We were told to experiment with the transitions of audio as well, but I mainly focused on the visual elements first, because I'm still not confident in my skills yet and still want to take some time to explore things step by step.
