@@ -1,5 +1,5 @@
 ---
-title: Week 3 - Session 1
+title: Week 3 - Session 1_2
 published_at: 2024-03-19
 snippet: Homework Task - Assignment 1 Draft
 ---
