@@ -5,19 +5,19 @@ snippet: Homework Task - Scavenger Hunt
 ---
 # Scavenger Hunt
 
-**Task Outline**
-
-   Documentation of in class scavenger hunt activity. The list of the scavenger hunt is as follows:
-   1. An explosive cup of coffee
-   2. A book containing Digital Media wisdom, found amongst many
-   3. A wide net strung above, bulging under the weight of its flying paper cargo
-   4. A curtain of roots, delivered by a winged visitor
-   5. A door for the condemned 
-   6. A study space fit for a Sith Lord
-   7. The disembodied hands of a great ape
-   8. A basement-dwelling Black Box, bigger than you might think
-   9. A wide machine, dispensing beverages from a far away land
-   10. A golden globe atop a tower of eights
+> **Task Outline**
+>
+   > Documentation of in class scavenger hunt activity. The list of the scavenger hunt is as follows:
+   > 1. An explosive cup of coffee
+   > 2. A book containing Digital Media wisdom, found amongst many
+   > 3. A wide net strung above, bulging under the weight of its flying paper cargo
+   > 4. A curtain of roots, delivered by a winged visitor
+   > 5. A door for the condemned 
+   > 6. A study space fit for a Sith Lord
+   > 7. The disembodied hands of a great ape
+   > 8. A basement-dwelling Black Box, bigger than you might think
+   > 9. A wide machine, dispensing beverages from a far away land
+   > 10. A golden globe atop a tower of eights
 
 ## Scavenger Hunt Finds
 Going into this activity, we had no plans at all and 2 out of 4 of our group mates (myself included) had never explored the campus before. So as soon as we stepped out of Building 9 we paused and stood there for a solid couple of minutes, until one of our group members suggested we go into the library.
