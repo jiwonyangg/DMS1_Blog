@@ -5,9 +5,9 @@ snippet: Homework Task - Making a Storyboard
 ---
 # Making a Storyboard
 
-**Task Outline**
-
-   The first portion of the homework task was to select any sequence, a movie, tv show, youtube video etc. and create a storyboard. The second part of our homework task was to create our own storyboard for assignment 1.
+> **Task Outline**
+> 
+   > The first portion of the homework task was to select any sequence, a movie, tv show, youtube video etc. and create a storyboard. The second part of our homework task was to create our own storyboard for assignment 1.
 
 ## Practice Storyboard
 I chose the scene **'Chocolate Room'** from the 2005 Tim Burton film, **'Charlie and the Chocolate Factory.'** I drew up to roughly the 1:00-1:02 mark.

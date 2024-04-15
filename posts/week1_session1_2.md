@@ -5,9 +5,9 @@ snippet: Homework Task - My Favourite Space
 ---
 # My Favourite Space
 
-**Task Outline**
-
-   The purpose of the task was to film a 30 second video of a space that felt important to each individual. This task had to be filmed using a smartphone and it was to be a special physical space other than our own bedrooms. We needed to convey our emotions of how we feel about this space through visual means such as framing.
+> **Task Outline**
+> 
+   > The purpose of the task was to film a 30 second video of a space that felt important to each individual. This task had to be filmed using a smartphone and it was to be a special physical space other than our own bedrooms. We needed to convey our emotions of how we feel about this space through visual means such as framing.
 
 
 # My Favourite Space - My Backyard

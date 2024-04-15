@@ -5,11 +5,11 @@ snippet: Homework Task - Experimenting with Premiere Pro
 ---
 # Experimenting with Premiere Pro
 
-**Task Outline**
-
-   The homework task assigned was to watch through some tutorial/training videos on using Premiere Pro. During class we exchanged footage with one another, therefore obtaining 2, 30 second footage of each of our favourite space to experiment with (from Week 1, Session 1 homework task). We were asked to do the following:
-   - What meanings can be produced via: Juxtaposition, Pacing & Rhythm (30 seconds)
-   - Create a video that explores basic transitions
+> **Task Outline**
+> 
+   > The homework task assigned was to watch through some tutorial/training videos on using Premiere Pro. During class we exchanged footage with one another, therefore obtaining 2, 30 second footage of each of our favourite space to experiment with (from Week 1, Session 1 homework task). We were asked to do the following:
+   > - What meanings can be produced via: Juxtaposition, Pacing & Rhythm (30 seconds)
+   > - Create a video that explores basic transitions
 
 ## My RAW Footage
 <video controls src="/W01S1/W1-S1_HW.mp4" title="Title"></video>
