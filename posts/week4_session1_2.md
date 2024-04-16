@@ -26,3 +26,8 @@ snippet: Homework Task - Brainstorming Assignment 2 Prompts
 
 ## Mindmap - Community
 ![Brainstorming - Community](/W04/3_6community.jpg)
+
+## After Class Further Brainstorm
+![Reflections and Changes](/W04/3_7afterclass.jpg)
+
+![Ideas for Icons](/W04/3_8list.jpg)
