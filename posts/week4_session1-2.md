@@ -1,5 +1,5 @@
 ---
-title: Week 4 - Session 1_2
+title: Week 4 - Session 1-2
 published_at: 2024-04-09
 snippet: Homework Task - Brainstorming Assignment 2 Prompts
 ---

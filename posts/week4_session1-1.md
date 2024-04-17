@@ -1,5 +1,5 @@
 ---
-title: Week 4 - Session 1_1
+title: Week 4 - Session 1-1
 published_at: 2024-04-09
 snippet: Homework Task - Black Square Activity
 ---

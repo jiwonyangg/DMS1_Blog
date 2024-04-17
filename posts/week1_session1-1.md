@@ -1,5 +1,5 @@
 ---
-title: Week 1 - Session 1_1
+title: Week 1 - Session 1-1
 published_at: 2024-03-05
 snippet: Homework Task - Scavenger Hunt
 ---
