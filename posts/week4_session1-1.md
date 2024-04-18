@@ -16,6 +16,10 @@ snippet: Homework Task - Black Square Activity
 ![Congestion](/W04/1_4congestion.jpg)
 ![Tension](/W04/1_5tension.jpg)
 ![Playful](/W04/1_6playful.jpg)
+**Reflections**
+At first, I tried to go in order of how the prompts were given but I quickly got stuck on producing different looking designs for the one prompt. I also found it very difficult because the prompts made me think how would squares be able to properly represent these words. So I very quickly changed my tactic and went in any random order that I wanted to go in because I felt that this was the fastest way for me to brainstorm thumbnail designs (as the point of this exercise was to be fast at brainstorming).
+
+Although the homework task asks how we applied what we learnt from the LinkedIn videos, as I finished this activity in class I watched the videos after. Thankfully, I had prior experience with AdobeIllustrator so the videos were recaps for me and the black square activity didn't really require much technical illustrator skills.
 
 ## Black Square Activity - Final 6 Designs
 ![Final 6 Designs](/W04/4blacksquares.jpg)
@@ -28,3 +32,5 @@ snippet: Homework Task - Black Square Activity
 ![Progress 5](/W04/2_5progress.png)
 ![Progress 6](/W04/2_6progress.png)
 ![Progress 7](/W04/2_7progress.png)
+
+As mentioned previously, I started to do things in a very sporadic manner. Occasionally, I would make a design but then observe and realise that it fits another prompt better than what it was made for.
