@@ -17,7 +17,7 @@ This was the final score I got in the game. At first I tried as hard I could to 
 ![Pen Tool Activity #1](/W05/1_2classwork.jpeg)
 
 ## Pen Tool Activity #2
-![Pen Tool Activity #2](W/05/1_3letter.jpg)
+![Pen Tool Activity #2](/W05/1_3letter.jpg)
 
 ## Pen Tool Activity #3
 ![Pen Tool Activity #3](/W05/1_4rabbit.jpg)
