@@ -69,3 +69,7 @@ Because I'm deciding to stick with having a central focal point, it was almost i
 Although I'm most satisfied with the fourth sketch I still haven't settled with any design because of the inclusions of the Korean language I feel like it goes against the brief. I'm choosing to develop the fourth or the fifth one but at this stage I think I'm still stuck on how I want to express language.
 
 An idea I do have, however, is because this is flat design and shapes will be the main element of focus I could somehow manipulate the shapes into looking like the Korean characters, since many Korean characters already look like shapes. But the main focus is to avoid type as much as possible to completely avoid the restriction stated in the brief.
+
+## Thumbnail Sketch - Flipped Icon Base
+![Flipped Icon Base Design](/W04/FLIP.jpg)
+WRITE HERE
