@@ -1,5 +1,5 @@
 ---
-title: Week 4 - Session 2/2
+title: Week 4 - Session 2 (2)
 published_at: 2024-04-11
 snippet: Homework - Assignment 2 Thumbnail Sketching
 ---
