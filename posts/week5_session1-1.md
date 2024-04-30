@@ -28,7 +28,7 @@ The exercises helped me to get back into using the shortcuts and I found that I 
 
 ## Edward Hopper Tracing Activity
 ![Lighthouse Hill - Edward Hopper | Pen Tool](/W05/LIGHTHOUSEHILL.jpg)
-![Traced Painting Using the Pen Tool](/W05/ORGANIC.jpg)
+![Traced Painting Using the Pen Tool](/W05/ORGANIC.png)
 I didn't notice while I was tracing the image but there are some white gaps peaking through. Although it wasn't a requirement to do it fast, I tried to do it relatively fast because I felt as though the more I pondered on how to do it, the less it would turn out in a flat design style. This was my very first attempt doing a full coloured tracing in a flat design style so I don't think it turned out too bad. 
 However, I did have a lot of difficulty trying to decipher the paintign, especially the hills so I'm not particularly happy with the nature but I think the lighthouse turned out much better than expected. At first, I thought that using the pen tool and organic shapes would be difficult but having done the exercise it allowed for more freedom and I could manipulate the shapes however I needed it to be.
 
