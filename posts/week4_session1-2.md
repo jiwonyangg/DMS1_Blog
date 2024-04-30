@@ -5,6 +5,7 @@ snippet: Homework Task - Brainstorming Assignment 2 Prompts
 ---
 # Brainstorming Assignment 2 Prompts
 > **Task Outline**
+>
 > The homework task was to watch through tutorial videos to introduce Adobe Illustrator and get familiarised with the program. In doing so, the Black Square Activity was required to be completed, if not finished during class time. This part of the homework is documented in "Week 4 - Session 1_1."
 > 
 > Following these tasks, any brainstorming method of choice was required to generate ideas based off of the proposed prompts for Assignment 2, generating as many ideas possible. This second part of the homework is documented here in "Week 4 - Session 2_2."

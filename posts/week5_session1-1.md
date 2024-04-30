@@ -5,7 +5,9 @@ snippet: Classwork - Pen Tool Exercises
 ---
 # Pen Tool Activities
 > **Task Outline**
+>
 > In class we did a game to help improve our pen tool skills and had some more worksheets to follow in AdobeIllustrator to further refine our pen tool skills.
+>
 > After class, there were further tracing activities to do to help understand flat design. Out of the provided Edward Hopper paintings, 2 were to be chosen, one being traced with the pen tool and the other using the shape tool.
 
 ## Bezier Game

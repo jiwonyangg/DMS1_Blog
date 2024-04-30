@@ -4,8 +4,9 @@ published_at: 2024-04-18
 snippet: Homework - Starting to Finalise Assignment 2
 ---
 > **Task Outline**
+>
 > Work towards finalising the icons for submission and revisit platform, context, and audience, making changes where necessary.
-
+>
 > Watch the provided tutorial videos on HTML and experiment with swapping out the template with the icons that were made.
 
 ## Assignment 2 Icons Outline

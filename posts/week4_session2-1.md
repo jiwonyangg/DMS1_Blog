@@ -5,6 +5,7 @@ snippet: Classwork - Thumbnail Sketching Activity
 ---
 # Thumbnail Sketching Activity
 > **Task Outline**
+>
 > Do 20 thumbnail sketches within 10 minutes based on a certain idea using traditional or digital drawing tools. 
 
 ## During Class Sketching Activity

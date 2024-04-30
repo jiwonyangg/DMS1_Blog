@@ -5,6 +5,7 @@ snippet: Homework - Assignment 2 Thumbnail Sketching
 ---
 # Assignment 2 Thumbnail Sketches
 > **Task Outline**
+>
 > To prepare for Assignment 2, the homework task was to do 5 sets of rough sketches for each of the 9 icons, totalling to at least 45 thumbnail sketches based on the chosen concept.
 
 ## Thumbnail Sketch - Food
