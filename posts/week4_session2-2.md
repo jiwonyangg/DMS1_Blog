@@ -73,4 +73,9 @@ An idea I do have, however, is because this is flat design and shapes will be th
 
 ## Thumbnail Sketch - Flipped Icon Base
 ![Flipped Icon Base Design](/W04/FLIP.jpg)
-WRITE HERE
+
+Because I already decided that the concept of the icons would be that the user would receive a skin once the icon has been clicked, I only needed to come up with the idea for the base design of the skins. This was to ensure that there was cohesion between the icons. To make the icons specific for each community group, I plan on adapting the main icons onto the base of the "skin", either through the colour or the design of the icon itself.
+
+The base design of the skin is traditional Korean attire "Hanbok". I did initially explore a set for male and female, as seen in the first icon drawing, however, I felt that it would end up being too small and detailed, so I quickly changed to only the female iteration. This might mean I have to adjust the audience in the future but I think I'll have to revisit this once the icons have actually been designed.
+
+As of right now I'm choosing between the third or fourth design, I feel as though I would be tempted to make the icons far too detailed if I go for the other ideas.

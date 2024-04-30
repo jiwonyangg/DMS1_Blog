@@ -3,6 +3,7 @@ title: Week 5 - Session 2
 published_at: 2024-04-18
 snippet: Homework - Starting to Finalise Assignment 2
 ---
+# Development of Assignment 2
 > **Task Outline**
 >
 > Work towards finalising the icons for submission and revisit platform, context, and audience, making changes where necessary.
@@ -17,3 +18,6 @@ snippet: Homework - Starting to Finalise Assignment 2
 ![Assignment 2 Final Icons Coloured #2](/W6ICONS/AT2-03.jpg)
 ![Assignment 2 Final Icons Coloured #3](/W6ICONS/AT2-04.jpg)
 ![Assignment 2 Final Icons Coloured - Flipped Design](/W6ICONS/AT2-05.jpg)
+
+- include screenshot of the not index coding
+## Platform,Context and Audience

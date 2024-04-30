@@ -12,6 +12,11 @@ snippet: Homework - Assignment 2 Draft - Coloured Icons
 
 ## Rough Icon Draft - AdobeIllustrator
 ![Rough Icon Draft](/W05/DRAFT_ICON.jpg)
+These are the rough icon designs that I came up with. I directly traced from my own drawings, excluding the language icon. Now that I'm actually seeing it in a flat design style, although without colour, I think that I could potentially use more detail. Overall, I'm finding that I'm lacking a lot of form for the designs, I'm aware that it should be in the style of flat design, but I feel like it's a bit too empty.
+
+For the food icon I found showing perspective was a bit difficult so I think for the final iteration I'll do it in a bird's eye view instead. Because I'm aiming to show as much symmetrical balance, I think doing it in a bird's eye view will be more successful.
+
+
 
 ## Rough Icon Draft - Introducing Hues
 ![Rough Icon Draft - Introducing Hues #1](/W05/DRAFT_HUE1.jpg)
