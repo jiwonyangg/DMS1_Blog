@@ -1,6 +1,6 @@
 ---
-title: Week 1 - Session 1-2
-published_at: 2024-03-05
+title: Week 1 - Session 1 (2)
+published_at: 2024-03-06
 snippet: Homework Task - My Favourite Space
 ---
 # My Favourite Space

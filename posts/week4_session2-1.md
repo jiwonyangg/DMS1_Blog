@@ -1,5 +1,5 @@
 ---
-title: Week 4 - Session 2-1
+title: Week 4 - Session 2 (1)
 published_at: 2024-04-11
 snippet: 1_Classwork - Thumbnail Sketching Activity
 ---

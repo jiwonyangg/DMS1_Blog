@@ -1,7 +1,7 @@
 ---
-title: Week 4 - Session 2-2
-published_at: 2024-04-11
-snippet: 2_Homework - Assignment 2 Thumbnail Sketching
+title: Week 4 - Session 2 (2)
+published_at: 2024-04-12 
+snippet: Homework - Assignment 2 Thumbnail Sketching
 ---
 # Assignment 2 Thumbnail Sketches
 > **Task Outline**

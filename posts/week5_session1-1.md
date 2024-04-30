@@ -1,5 +1,5 @@
 ---
-title: Week 5 - Session 1-1
+title: Week 5 - Session 1 (1)
 published_at: 2024-04-16
 snippet: Classwork - Pen Tool Exercises
 ---

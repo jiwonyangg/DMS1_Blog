@@ -1,6 +1,6 @@
 ---
-title: Week 5 - Session 1-2
-published_at: 2024-04-16
+title: Week 5 - Session 1 (2)
+published_at: 2024-04-17
 snippet: Homework - Assignment 2 Draft - Coloured Icons
 ---
 # Assignment 2 Draft - Coloured Icons
