@@ -17,7 +17,7 @@ snippet: Assignment 2
 - MWP Gaming Keyboard short.mp3 by zajichavez -- https://freesound.org/s/629619/ -- License: Creative Commons 0
 
 **Entertainment**
-Film Projector - Long Run with Finish by Stefan021 -- https://freesound.org/s/412145/ -- License: Creative Commons 0
+- Film Projector - Long Run with Finish by Stefan021 -- https://freesound.org/s/412145/ -- License: Creative Commons 0
 
 **Architecture**
 - Wood Door Open and Close Series -- Youtube Audio Library -- https://www.youtube.com/audiolibrary -- License: Youtube Audio Library License (No Attributions Required)
@@ -29,10 +29,10 @@ Film Projector - Long Run with Finish by Stefan021 -- https://freesound.org/s/41
 - Wooden Bat Dropped on Ashphalt -- Youtube Audio Library -- https://www.youtube.com/audiolibrary -- License: Youtube Audio Library License (No Attributions Required)
 
 **Traditional Instruments**
-grozkaiz2.wav by garogourou -- https://freesound.org/s/144541/ -- License: Creative Commons 0
+- grozkaiz2.wav by garogourou -- https://freesound.org/s/144541/ -- License: Creative Commons 0
 
 **Music**
-camera_snap1.wav by thecheeseman -- https://freesound.org/s/51360/ -- License: Attribution 4.0
+- camera_snap1.wav by thecheeseman -- https://freesound.org/s/51360/ -- License: Attribution 4.0
 
 **Language**
-Writing with pencil 2 by fthgurdy -- https://freesound.org/s/376705/ -- License: Creative Commons 0
+- Writing with pencil 2 by fthgurdy -- https://freesound.org/s/376705/ -- License: Creative Commons 0
