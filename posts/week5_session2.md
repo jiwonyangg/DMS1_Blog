@@ -21,3 +21,25 @@ snippet: Homework - Starting to Finalise Assignment 2
 
 - include screenshot of the not index coding
 ## Platform,Context and Audience
+- Platform: PC, RPG Game
+- Context: Choosing area of interest community from Korean culture in a game
+- Audience: Late teens - 20’s, People who game/are interested in gaming and Korean culture, can be Korean or just be interested in Korean culture
+
+## Final Icons - Work Documentation
+![#1](/WIP/2final1.png)
+![#2](/WIP/2final2.png)
+![#3](/WIP/2final3.png)
+![#4](/WIP/2final4.png)
+![#5](/WIP/2final5.png)
+![#6](/WIP/2final6.png)
+![#7](/WIP/2final7.png)
+![#8](/WIP/2final8.png)
+![#9](/WIP/2final9.png)
+![#10](/WIP/2final10.png)
+![#11](/WIP/2final11.png)
+![#12](/WIP/2final12.png)
+![#13](/WIP/2final13.png)
+![#14](/WIP/2final14.png)
+![#15](/WIP/2final15.png)
+![#16](/WIP/2final16.png)
+![#17](/WIP/2final17.png)
