@@ -43,17 +43,17 @@ Language - I made the shapes a bit more obvious that it was Korean, even though 
 
 ## Assignment 2 Coloured Icons Development
 **First 9 Set**
-![Assignment 2 Final Icons Coloured #1](/W6ICONS/AT2-02.png)
+![Assignment 2 Final Icons Coloured #1](/W6ICONS/AT2_02.png)
 
 
-![Assignment 2 Final Icons Coloured #2](/W6ICONS/AT2-03.png)
+![Assignment 2 Final Icons Coloured #2](/W6ICONS/AT2_03.png)
 
 
-![Assignment 2 Final Icons Coloured #3](/W6ICONS/AT2-04.png)
+![Assignment 2 Final Icons Coloured #3](/W6ICONS/AT2_04.png)
 
 
 **Flipped 9 Set**
-![Assignment 2 Final Icons Coloured - Flipped Design](/W6ICONS/AT2-05.png)
+![Assignment 2 Final Icons Coloured - Flipped Design](/W6ICONS/AT2_05.png)
 
 
 ## Platform,Context and Audience
