@@ -3,7 +3,13 @@ title: Week 6 - Session 2 | Assignment 2
 published_at: 2024-04-30
 snippet: Assignment 2
 ---
-# Final Icon Designs
+# Final Icon Designs - COMMUNITY
+My idea for the concept of community was that the website would be the UI for a PC game and the first 9 icons would each be depicting a different interest community. Users will then decide which interest community to join (and have the freedom to hover over to have a sneakpeak of the skins) and once the icon is clicked, the sound will signify that they have received the skin (which are the flipped icons).
+
+- Platform: PC, RPG Game
+- Context: PC Game UI - Choosing area of interest community from Korean culture in a game, receiving a skin once a community is chosen
+- Audience: Late teens - 20's, people who game and are interested in Korean culture (regardless of their cultural background)
+
 **First 9 Set**
 ![ICONS](/W6ICONS/FINALFORBLOG-01.png)
 

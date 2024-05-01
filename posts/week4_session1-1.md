@@ -6,19 +6,31 @@ snippet: Homework Task - Black Square Activity
 # Black Square Activity
 > **Task Outline**
 >
-> The homework task was to watch through tutorial videos to introduce Adobe Illustrator and get familiarised with the program. In doing so, the Black Square Activity was required to be completed, if not finished during class time. This part of the homework is documented here in "Week 4 - Session 1_1."
+> The homework task was to watch through tutorial videos to introduce Adobe Illustrator and get familiarised with the program. In doing so, the Black Square Activity was required to be completed, if not finished during class time. This part of the homework is documented here in "Week 4 - Session 1 (1)."
 > 
-> Following these tasks, any brainstorming method of choice was required to generate ideas based off of the proposed prompts for Assignment 2, generating as many ideas possible. This second part of the homework is documented in "Week 4 - Session 2_2."
+> Following these tasks, any brainstorming method of choice was required to generate ideas based off of the proposed prompts for Assignment 2, generating as many ideas possible. This second part of the homework is documented in "Week 4 - Session 2 (2)."
 
 ## Black Square Activity - Rough 8 Designs
+**Order**
 ![Order](/W04/1_1order.jpg)
+
+**Increase**
 ![Increase](/W04/1_2increase.jpg)
+
+**Bold**
 ![Bold](/W04/1_3bold.jpg)
+
+**Congestion**
 ![Congestion](/W04/1_4congestion.jpg)
+
+**Tension**
 ![Tension](/W04/1_5tension.jpg)
+
+**Playful**
 ![Playful](/W04/1_6playful.jpg)
 
 **Reflections**
+
 Design thinking includes: empathising, defining, ideating, prototyping and testing. In this activity, ideating was the key focus out of the elements of design thinking. The aim of the activity was to brainstorm as many solutions to the prompts given, however, it goes without saying that prior to ideating defining was crucial in order to understand what was needed to be delivered. 
 
 At first, I tried to go in order of how the prompts were given but I quickly got stuck on producing different looking designs for the one prompt. I also found it very difficult to define what the prompts needed because I wasn't sure how the squares would be able to properly represent those words. So I very quickly changed my tactic and went in any random order that I wanted to go in because I felt that this was the fastest way for me to produce thumbnail designs (as the point of this exercise was to be fast at brainstorming).

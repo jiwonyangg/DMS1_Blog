@@ -18,7 +18,7 @@ I'm thinking of doing bibimbap (third thumbnail sketch) because it's a more reco
 ## Thumbnail Sketch - Music
 ![Theme: Music](W04/5_2music.JPG)
 
-The theme of music was the hardest to express so it took the longest to brainstorm. Because K-Pop is the most well-known of Korean music I tried to express it as best as I could without singling a certain group since I want to make it a community for interests. I attempted drawing silhouettes the most but it wasn't as successful as I wanted because it seems too specific and exactly what I tried not to do - singling out groups.
+The theme of music was the hardest to express so it took the longest to brainstorm. Because K-Pop is the most well-known of Korean music I tried to express it as best as I could without singling a certain group since I want to make it a community for interests. I attempted drawing silhouettes but it wasn't as successful as I wanted because it seems too specific and exactly what I tried not to do - singling out groups.
 
 The fifth thumbnail (depicting a concert scene) felt least specific to a group so as of now, I'm thinking of choosing the fifth one. I went a different approach and tried to see if I could play around with positive and negative space, which it actually doesn't but I came out with something I'm surprisingly feeling okay with. However, colour is going to be very important in attempting to convey the aesthetic of concert lights.
 
@@ -34,26 +34,32 @@ I tried a some different approaches such as the second sketch showing a scene th
 
 For the first sketch I just started drawing without thinking to start getting more ideas for this theme. I learnt from this sketch that I should really try to simplify the image into shapes and get rid of any deatil so I kept this in mind for the remainder of the thumbnail sketches. I kept in mind that I was choosing something circular for food so I wanted to show cohesion and do another set of sketches that were more circular and had a more central focal point.
 
-I personally like how the third thumbnail sketch turned out to look so I'm planning to further develop this one. The third sketch seems like the best option to simplify into shapes with the inclusion of lines, without having a simple, and potentially boring, single cirle shape.
+I personally like how the third thumbnail sketch turned out to look so I'm planning to further develop this one. The third sketch seems like the best option to simplify into shapes with the inclusion of lines, without having a simple, and potentially boring, single circle shape.
+
+> Quick Explanation:
+> The instrument is called 'Janggu'. It's played as it is drawn and it is played with a stick and hands. The sound is very similar to the sound of a bass drum.
 
 ## Thumbnail Sketch - Traditional Games
 ![Theme: Traditional Games](W04/5_5games.JPG)
 
-I wanted to contrast from all the circular elements that I kept using throughout the other sketches so I opted to go with sharper shapes, mainly squares. The main thing I kept consistent was trying to keep a central focal point and making sure I don't use too many lines and try to keep the icons limited to shapes, since it will be done in a flat design style.
+I wanted to contrast from all the circular elements that I kept using throughout the other sketches so I opted to go with sharper shapes, mainly squares. The main thing I kept consistent was trying to keep a central focal point and making sure I don't use too many lines and trying to keep the icons limited to shapes, since it will be done in a flat design style.
 
 Although I really liked the way the third sketch looks, objectively, I don't think anyone would be able to guess that it's a Korean version of paper-scissors-rock (mook-jji-bba) so I'm choosing to go with the first sketch instead. Because the overall shape is a square, it contrasts with the other icons, like I wanted it to. Unlike the other icons, this design is a lot more simple and uses a lot less shapes as well but I may have to trial further how to make the four sticks more visible.
+
+> Quick Explanation: 
+> The game is called 'Yutnori' and the square behind the four sticks is essentially the board to play the game. Players throw the four wooden sticks onto a cloth (and it must all land within the cloth, otherwise they cannot move), and depending on which side the sticks land on (up to five different combinations) will depend on how many spaces the player can move on the board.
 
 ## Thumbnail Sketch - Sports
 ![Theme: Sports](W04/5_6sports.JPG)
 
 This one was the easiest for me to make my decision because I liked the symmetrical balance the second sketch includes and the contrast between the red and blue is a good way to incorporate elements of the Korean flag (as well as it being a part of Taekwondo). 
 
-Compared to the other themes, I focused a lot less on having a centred focal point but looking at the sketches combined the second sktech definitely stands out more due to the symmetrical balance, as previously mentioned. I also wanted to challenge myself by having a slightly more complicated design so that I can further dissect the subjects into shapes to achieve the flat design style.
+Compared to the other themes, I focused a lot less on having a centred focal point but looking at the sketches combined the second sktech definitely stands out more, due to the symmetrical balance, as previously mentioned. I also wanted to challenge myself by having a slightly more complicated design so that I can further dissect the subjects into shapes to achieve the flat design style.
 
 ## Thumbnail Sketch - Esports
 ![Theme: Esports](W04/5_7t1.JPG)
 
-Esports in general has been quite big and popular in Korea over the years, however, the popularity of 'League of Legends' in Korea is significantly greater than other esports genres. And although it is true 'League of Legends' as esports itself is very popular in Korea, it is more popular because of a player, 'Faker', and the team he plays for 'T1' so I decided to focus more on 'Faker' and 'T1', rather than the game itself. I tried both a generic and predictable approach and also a more "niche" approach. I ended up not paying attention, at all, to the generic approaches because it felt way too predictable.
+Esports in general has been quite big and popular in Korea over the years, however, the popularity of 'League of Legends' in Korea is significantly greater than other esports genres. And although it is true 'League of Legends' as esports itself is very popular in Korea, it is more popular because of a player, 'Faker', and the team he plays for 'T1' so I decided to focus more on 'Faker' and 'T1', rather than the game itself (since the team is also globally very popular). I tried both a generic and predictable approach and also a more "niche" approach. I ended up not paying attention, at all, to the generic approaches because it felt way too predictable.
 
 For some reason, I really liked the sketches of the hands in the 'Traditional Games' sketch so I attempted to do the same with esports, drawing each T1 players signature hand signs, and I ended up enjoying the way it looks a lot so I'm deciding on going with the third sketch. The fourth sketch needed text for the player's uniforms so I wanted to avoid it, even though I thought it represented T1 well (as they won "Worlds 2023"), although it technically doesn't give hints on what the icon is, I thought it was safer to avoid it due to the restrictions of the brief. Similarly to the Taekwondo icon, the symmetrical balance of the third sketch really drove my attention to it and I think it'll be really fun to play around with colour for this as an icon.
 

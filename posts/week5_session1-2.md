@@ -26,7 +26,7 @@ Traditional Game - I'm quite satisfied with how it turned out so I don't believe
 
 Sports - Because I just traced over my drawing, the proportions and pose look very off so this will need to be reiterated the most. I'll most likely need to re-draw my rough sketch or add some details onto the clothing to make the pose slightly more dynamic. 
 
-Esports - I tried a different style to my initial rough sketch. BEcause all of my other icons were turning out very sharp and rigid I thought I would try to make the hand signs as if they were shapes. I'm pretty happy with how it looks but I do think I prefer having smoother edges, so I'll have to tweak the individual shapes.
+Esports - I tried a different style to my initial rough sketch. Because all of my other icons were turning out very sharp and rigid I thought I would try to make the hand signs as if they were shapes. I'm pretty happy with how it looks but I do think I prefer having smoother edges, so I'll have to tweak the individual shapes.
 
 Architecture - I tried to simplify my drawing as much as possible but I want to try develop it to have more detail and see how it looks then. If it looks too detailed then I'll cut down, since it'll only be a matter of deleting elements but I think I want to first compare how it looks more detailed. I also want to see how it will look with bricks on the walls, but I'm concerned that it might potentially add too much detail (but again, it can easily be removed).
 
@@ -34,7 +34,7 @@ Language - I ended up combining all of my rough sketches together, because I did
 
 ## Rough Icon Draft - Introducing Hues
 ![Rough Icon Draft - Introducing Hues #1](/W05/DRAFT_HUE1.png)
-For my icons I knew I had to include red and blue, but I wasn't too sure how saturated or how bright I wanted the colours to be but I started off colouring the icons that I knew which colours I wanted to use. I initially started with traditional games because the four vertical sticks are wooden so I wanted to make it brown. I personally thought that it looked good with just brown, and variations of the brown hue that I used but I stil tried adding more colour. After adding as much colour as I could, I realised that the green worked really nicely with the brown so I'm planning on incorporating it into my final colour scheme.
+For my icons I knew I had to include red and blue, but I wasn't too sure how saturated or how bright I wanted the colours to be but I started off colouring the icons that I knew which colours I wanted to use. I initially started with traditional games because the four vertical sticks are wooden so I wanted to make it brown. I personally thought that it looked good with just brown, and variations of the brown hue that I used but I still tried adding more colour. After adding as much colour as I could, I realised that the green worked really nicely with the brown so I'm planning on incorporating it into my final colour scheme.
 
 For the sports icon, I knew from the very beginning I didn't want to add any colour other than red and blue. However, I did experiment with a new idea of having the background "alternating" the colour that was shown on the uniform, so this is an idea I will continue to adapt. I thought that I would like the aesthetics of a muted colour scheme but I think I prefer it to be more saturated.
 
@@ -45,6 +45,7 @@ Unlike the icons previously coloured, I tried doing no outlines for the music ic
 
 The last icon I experimented with adding hues was the esports icon. I specifically chose this one because I also knew this would be using a limited colour palette, but also, I wanted to test out how the icons would look with the hands being a colour other than skin tones. It didn't turn out as bad as I would've expected, but I think the issue is that it lacks the contrast to make it visually interesting and the more I added hues with different brightnesses and saturations, the messier it got. I also think it will look better if the background is just a a singular colour, because the hands itself will be detailed, in comparison.
 
+I'm still not certain on which colour scheme will work best with my icons but I know I would have to make use of split complementary and possibly triadic (due to red and blue) colour combinations. I was initially hoping to use more muted colours, but it didn't turn out as nice as I thought it would so I think anything more saturated will be better for my icons as my designs will make a lot of use of red and blue, having a stronger contrast will work better.
 ## Rough Icon Draft - Work Documentation
 ![#1](/WIP/1_1draft2.png)
 ![#2](/WIP/1_1draft3.png)
@@ -61,3 +62,5 @@ The last icon I experimented with adding hues was the esports icon. I specifical
 ![#13](/WIP/1_3draft2.png)
 ![#14](/WIP/1_3draft3.png)
 ![#15](/WIP/1_3draft4.png)
+
+As you can see in the images, I don't typically go in order. I usually just go for whatever I feel in the moment so that I can boost out more ideas in a shorter span, and think of the others in the back of my head so I don't waste time.

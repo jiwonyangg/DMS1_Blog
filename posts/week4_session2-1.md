@@ -1,7 +1,7 @@
 ---
 title: Week 4 - Session 2 (1)
 published_at: 2024-04-11
-snippet: 1_Classwork - Thumbnail Sketching Activity
+snippet: Classwork - Thumbnail Sketching Activity
 ---
 # Thumbnail Sketching Activity
 > **Task Outline**

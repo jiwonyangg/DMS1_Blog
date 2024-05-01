@@ -14,11 +14,11 @@ snippet: Homework - Sound
 
 ![Audio Files](W6ICONS/AUDIOEXP.png)
 
-These were the audio files that were cleaned up in AdobeAudition annd imported to test.
+These were the audio files that were cleaned up in AdobeAudition and imported to test.
 
 ![Main Code](W6ICONS/HTMLEXP.png)
 
-This was me testing whether the sounds worked when the icons were clicked on. I'm still not sure what the issue was, but after spamming the website to hard refresh it started to work.
+This was me testing whether the sounds worked when the icons were clicked on. I'm still not sure why it didn't work at first and what the issue was, but after spamming the website to hard refresh it started to work.
 
 ## Finding Sounds for Icon Designs
 These were all the sounds I found that I felt suited my icons. There are some that have multiple options but I'm deciding to choose while editing in AdobeAudition.
@@ -34,7 +34,7 @@ I found it difficult to find a good spot to cut the audio so that the sound is s
 - Keyboard Typing Fast Close -- Youtube Audio Library -- https://www.youtube.com/audiolibrary -- License: Youtube Audio Library License (No Attributions Required)
 - Typing on Keyboard -- Youtube Audio Library -- https://www.youtube.com/audiolibrary -- License: Youtube Audio Library License (No Attributions Required)
 
-I found that the audios found on Youtube Audio Library was a bit too quiet so I went for the first option. It was also quite obvious that the sounds of the keyboards were keyboards used in offices (assuming they were membrane keyboards) so it was more fitting to use the actual gaming keyboard sound.
+I found that the audios found on Youtube Audio Library were a bit too quiet so I went for the first option. It was also quite obvious that the sounds of the keyboards were keyboards used in offices (assuming they were membrane keyboards) so it was more fitting to use the actual gaming keyboard sound.
 
 **Entertainment**
 - Film Projector - Long Run with Finish by Stefan021 -- https://freesound.org/s/412145/ -- License: Creative Commons 0

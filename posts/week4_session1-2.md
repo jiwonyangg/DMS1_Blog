@@ -6,9 +6,9 @@ snippet: Homework Task - Brainstorming Assignment 2 Prompts
 # Brainstorming Assignment 2 Prompts
 > **Task Outline**
 >
-> The homework task was to watch through tutorial videos to introduce Adobe Illustrator and get familiarised with the program. In doing so, the Black Square Activity was required to be completed, if not finished during class time. This part of the homework is documented in "Week 4 - Session 1_1."
+> The homework task was to watch through tutorial videos to introduce Adobe Illustrator and get familiarised with the program. In doing so, the Black Square Activity was required to be completed, if not finished during class time. This part of the homework is documented in "Week 4 - Session 1 (1)."
 > 
-> Following these tasks, any brainstorming method of choice was required to generate ideas based off of the proposed prompts for Assignment 2, generating as many ideas possible. This second part of the homework is documented here in "Week 4 - Session 2_2."
+> Following these tasks, any brainstorming method of choice was required to generate ideas based off of the proposed prompts for Assignment 2, generating as many ideas possible. This second part of the homework is documented here in "Week 4 - Session 2 (2)."
 
 ## Initial Thought Process
 ![Starting Thoughts](/W04/3_1mindmap.jpg)
@@ -51,7 +51,9 @@ My current plans for the icons are that the icons each represent a certain inter
 
 ![Ideas for Icons](/W04/3_8list.jpg)
 
-After class thoughts. After being told that the icons should be very specific I went in and now my updated idea is to combine the two of my ideas I had in my brainstorm: ”cultural community” and “game”. I thought that this would be the most interesting and least limiting for me to explore, it was just a matter of choosing which culture to represent. Because I don’t want to potentially misrepresent another community, I chose to just stick with Korean culture, due to my own background being Korean, therefore it would decrease the room for error or misrepresentation significantly.
+**After class thoughts**
+
+After being told that the icons should be very specific I went back to brainstorm and now my updated idea is to combine the two of my ideas I had in my mindmap: ”cultural community” and “game”. I thought that this would be the most interesting and least limiting for me to explore, it was just a matter of choosing which culture to represent. Because I don’t want to potentially misrepresent another community, I chose to just stick with Korean culture, due to my own background being Korean, therefore it would decrease the room for error or misrepresentation significantly.
 
 I also started to brainstorm the specific interest communities for the first 9 icons. My final choices will be: Food, Music, Movies, Traditional Instruments, Traditional Games, Sports, Esports and Architecture.
 
