@@ -5,9 +5,10 @@ snippet: Assignment 2
 ---
 # Final Icon Designs
 **First 9 Set**
-
+![ICONS](/W6ICONS/FINALFORBLOG-01.png)
 
 **Flipped 9 Set**
+![ICONS](/W6ICONS/FINALFORBLOG-02.png)
 
 # Sound Attributions
 **Food**

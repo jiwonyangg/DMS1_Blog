@@ -10,6 +10,14 @@ snippet: Homework - Starting to Finalise Assignment 2
 >
 > Watch the provided tutorial videos on HTML and experiment with swapping out the template with the icons that were made.
 
+## HTML Experimentation
+![HTML Experimentation](/W05/HTMLEXP1.png)
+![HTML Experimentation](/W05/HTMLEXP2.png)
+This was my experimentation of swapping icons. I hadn't yet tested it with my icons because I wanted to make sure that it worked before testing with my own.
+*I only included the most important lines of code to highlight my experimentation with swapping out icons.
+
+At first I was having trouble making my icons flip, but I realised later on that I was actually writing on the wrong page! So I just needed to re-write it in the correct page and then refresh, and it was working as it was meant to.
+
 ## Assignment 2 Icons Outline
 ![Assignment 2 Icon Final Outline](/W6ICONS/AT2-01.jpg)
 
@@ -33,13 +41,20 @@ Architecture - I used the same base as the draft icon but I just added more deta
 
 Language - I made the shapes a bit more obvious that it was Korean, even though they're still technically random shapes. I also updated it so that the columns are the same width and height, which I wanted to adjust from the draft. I also added a mini easter egg! The first column I actually made it my name in Korean (지원), because the shapes are made so that it doesn't look like any words (and I made it so that you would only be able to tell it's my name and only when I revealed the information).
 
-## Assignment 2 Icons Coloured
-![Assignment 2 Final Icons Coloured #1](/W6ICONS/AT2-02.jpg)
-![Assignment 2 Final Icons Coloured #2](/W6ICONS/AT2-03.jpg)
-![Assignment 2 Final Icons Coloured #3](/W6ICONS/AT2-04.jpg)
-![Assignment 2 Final Icons Coloured - Flipped Design](/W6ICONS/AT2-05.jpg)
+## Assignment 2 Coloured Icons Development
+**First 9 Set**
+![Assignment 2 Final Icons Coloured #1](/W6ICONS/AT2-02.png)
 
-- include screenshot of the not index coding!!!!!!!!!!
+
+![Assignment 2 Final Icons Coloured #2](/W6ICONS/AT2-03.png)
+
+
+![Assignment 2 Final Icons Coloured #3](/W6ICONS/AT2-04.png)
+
+
+**Flipped 9 Set**
+![Assignment 2 Final Icons Coloured - Flipped Design](/W6ICONS/AT2-05.png)
+
 
 ## Platform,Context and Audience
 My original platform, context and audience was:
