@@ -7,8 +7,14 @@ snippet: Assignment 2
 **First 9 Set**
 ![ICONS](/W6ICONS/FINALFORBLOG-01.png)
 
+This is my final icon design I chose for Assignment 2.
+
 **Flipped 9 Set**
 ![ICONS](/W6ICONS/FINALFORBLOG-02.png)
+
+These are the final flipped designs for my icons for Assignment 2.
+
+The final background colour I chose for my website was a grey colour. I tried black at first, but the flipped icons would blend in too much so I changed it to a grey.
 
 # Sound Attributions
 **Food**

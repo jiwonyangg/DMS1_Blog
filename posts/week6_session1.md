@@ -10,7 +10,16 @@ snippet: Homework - Sound
 >
 > Work towards finalising the icon designs, experimenting with sound.
 
-- documenting class work with sound?????
+## Experimenting With Sounds - Classwork
+
+![Audio Files](W6ICONS/AUDIOEXP.png)
+
+These were the audio files that were cleaned up in AdobeAudition annd imported to test.
+
+![Main Code](W6ICONS/HTMLEXP.png)
+
+This was me testing whether the sounds worked when the icons were clicked on. I'm still not sure what the issue was, but after spamming the website to hard refresh it started to work.
+
 ## Finding Sounds for Icon Designs
 These were all the sounds I found that I felt suited my icons. There are some that have multiple options but I'm deciding to choose while editing in AdobeAudition.
 
@@ -65,3 +74,15 @@ At first, I was considering adding screams but I wanted a more "UI" type of soun
 - Writing with pencil 2 by fthgurdy -- https://freesound.org/s/376705/ -- License: Creative Commons 0
 
 This was an easier sound to find because I knew I wanted something to do with pencil sounds, so I found this writing sound and added it to my icons.
+
+## Cleaning Up Downloaded Sounds in AdobeAudition
+
+![Work Documentation](/W6ICONS/WORKDOCUMENTATION.png)
+
+This is a screenshot I took while cleaning up all the audio that I downloaded to use for my own icons.
+
+![List of Sounds](/W6ICONS/SoundSS.png)
+
+This is just a screenshot showing the original audio files on the left and then the sound files that I edited in AdobeAudition on the right.
+
+After testing how the edited/cut down sounds were like on the website, I realised that some were still too loud, or too soft. So I had to re-adjust the audio levels on each of the files to reach at least -12 decibels.
