@@ -12,4 +12,6 @@ snippet: Classwork - Getting Started with Unity
 
 I didn't think about being creative with making my solar system because I was having so much difficulty trying to get used to using Unity. Although I wanted to try out something unique, I was too focused on trying to get things to work and changing perspectives etc. that it didn't cross my mind to make a different planet (other than the existing planets in the solar system).
 
+Because I didn't bring my mouse to class, controlling the perspective was very difficult and I would struggle a lot with trying to move around the 3D objects as well. 
+
 ## Work Documentation
