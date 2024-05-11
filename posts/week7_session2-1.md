@@ -35,9 +35,11 @@ If I'm being honest, if this was an individual activity, I don't think I would'v
 
 The most obvious thing to make this journey easier is using a map, but other than that I guess having a reward hidden at the location could make it more fun. Or I think it would be interesting to make the locations not in very recognisable areas (such as Muji being in Emporium and By Korea being near China Town).
 
-## Experimenting
-
+## Experimenting in Unity
+**Practice Results**
 ![Final Terrain](/W7/1terrain.png)
+
+WRITE HERE
 
 ## Work Documentation
 ![WIP](/W7/terrain1.png)
