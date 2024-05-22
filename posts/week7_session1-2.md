@@ -19,9 +19,11 @@ The idea that I thought of for the third assignment was to show my experience mo
 
 > I actually moved houses a couple of times preivously, but since I was too young I have absolutely no recollection. The first time that I can remember moving houses was in late Year 1 or early Year 2 (though I can't exactly remember when).
 
-I chose this experience in my life because I actually went through some uncanny occurrences within the house. I don't particularly believe or don't believe in paranormal activity but I would almost daily, as an 8-year old, get sleep paralysis and wake up within the world of my dreams (it's quite difficult to explain and sounds quite bizarre, especially since I experienced this young so one may believe that I'm just making things up, but to further explain - it was almost like lucid dreaming except that physical changes would be occurring, for example, I almost never was able to go outside of my room once I "entered" the dream world). Although, now I can look back on it and think it was a crazy and different experience, a new school and moving houses within a, sort of, similar timeframe messed with me a lot at the time.
+I chose this experience in my life because I actually went through some uncanny occurrences within the house. I don't particularly believe or don't believe in paranormal activity but I would almost daily, as an 8-year old, get sleep paralysis and wake up within the world of my dreams (it's quite difficult to explain and sounds quite bizarre, especially since I experienced this young so one may believe that I'm just making things up, but to further explain - it was almost like lucid dreaming except that physical changes would be occurring, for example, I almost never was able to go outside of my room once I "entered" the dream world). Although, now I can look back on it and think it was a crazy and different experience, a new school and moving houses within a, sort of, similar timeframe messed with me a lot at the time. 
 
-However, I would like to add that at first I hated the idea of moving and I hated my new school (that I ended up graduated from), I ended up really enjoying my school and I hold many good memories and grew to be very attached.
+Moving from Prep to Year 1, we started to do actual classwork instead of playing around in the classroom, so it's also when I sort of started to grasp the reality of school.
+
+> I would like to add that at first I hated the idea of moving and I hated my new school (that I ended up graduated from), I ended up really enjoying my school and I hold many good memories and grew to be very attached.
 
 ## Rough Sketch of my Environment + Explanations
 ![Assignment 3 Idea](/W7/map.png)

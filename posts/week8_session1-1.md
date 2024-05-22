@@ -6,7 +6,8 @@ snippet: Classwork - Using 3D Shapes to Create a 2D Image
 # Creating a 2D Image with 3D Shapes
 >**Task Outline**
 >
->
+> During class there was an image of a bridge that was created using 3D objects and changing the perspectives. We were to imitate the image and document our process.
+
 ## Work Documentation
 ![WIP](/W8/bridge1.png)
 ![WIP](/W8/bridge2.png)
