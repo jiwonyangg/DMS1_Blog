@@ -39,6 +39,7 @@ The most obvious thing to make this journey easier is using a map, but other tha
 **Practice Results**
 ![Final Terrain](/W7/1terrain.png)
 
+Raising the terrain was surprisingly really hard to control and it was very sensitive. I did change the opacity and size but I still felt that it was quite difficult to get the outcomes that I wanted.
 WRITE HERE
 
 ## Work Documentation
