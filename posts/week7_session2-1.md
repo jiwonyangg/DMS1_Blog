@@ -40,7 +40,10 @@ The most obvious thing to make this journey easier is using a map, but other tha
 ![Final Terrain](/W7/1terrain.png)
 
 Raising the terrain was surprisingly really hard to control and it was very sensitive. I did change the opacity and size but I still felt that it was quite difficult to get the outcomes that I wanted.
-WRITE HERE
+
+I'm really glad that we were able to do this activity in class, because my world is very dependant on having a hill, so I know that I'll need to use this feature for my world. However, I need to do more experimentation because, at the moment, it's very sensitive to use.
+
+Painting the terrain is also something that will need to be included into my world. I thought that it would be annoying to paint with and control the brush using a mouse, but it was very smooth and easy. It was surprisingly more accurate than I thought and it actually looks pretty decent as well.
 
 ## Work Documentation
 ![WIP](/W7/terrain1.png)
