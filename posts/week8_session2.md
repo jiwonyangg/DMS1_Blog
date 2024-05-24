@@ -61,4 +61,4 @@ In these screenshots I'm adding the trees and making minor changes to the colour
 ![pt1](/W8_WIP/1bplaytest36.png)
 ![pt1](/W8_WIP/1bplaytest37.png)
 
-Again, I'm just continuing to make small adjustments to the world, slowly working towards my draft environment.
+Again, I'm just continuing to make small adjustments to the world, slowly working towards my draft environment. In the previous blog post you may have noticed that in the assets that I found there's a first person controller. At first, I wanted the user to suffer in going up the hill so I didn't want a jumping function, but because of the platforms the user needed to jump down, I thought that it was actually necessary to have the character jump, but I have having issues with the script so I found a good first person controller asset from the Unity Asset Store.

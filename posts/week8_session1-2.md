@@ -26,6 +26,31 @@ I initially opened up unity and made a terrain but without my assets I was havin
 ![assetsearch](/W8/assetsearch3.png)
 ![assetsearch](/W8/assetsearch4.png)
 
+> Assets in order of what I found (instead of alphabetical):
+>- "Animal Crossing House" (https://skfb.ly/6TsvW) by JMGameDev is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/). 
+>- "Air Balloons" (https://skfb.ly/ontOs) by leha_pu is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+>- "Playground - Pack Lowpoly" (https://skfb.ly/oU97y) by DuNguyn - Assets store is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+>- "paper airplane" (https://skfb.ly/o8vTP) by Turtle_Flipper is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+>- "Block Train" (https://skfb.ly/6CH9r) by Just BK is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+>- "8 different gold stars" (https://skfb.ly/oCLUE) by alex.yefremov is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+>- "Heart in Love" (https://skfb.ly/6SusI) by Azamuki is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+>- "Kids Table Chairs" (https://skfb.ly/o9ytp) by Muhammad is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+>- "Animal Crossing Apple Tree" (https://skfb.ly/6TCKs) by damien_max59 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+>- "Haunted house" (https://skfb.ly/oMEvF) by patrakeevasveta is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+>- "Trees" (https://skfb.ly/6AppI) by DJMaesen is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+>- "oak trees" (https://skfb.ly/6TGAC) by DJMaesen is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+>- "Low-poly Papers Set" (https://skfb.ly/o8yVS) by Hox_Lira is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+>- "school" (https://skfb.ly/oSnJW) by kirsel91 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+>- "Island Platform" (https://skfb.ly/oOw9M) by jes2278617 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+>- "School Desk" (https://skfb.ly/o9CHO) by barism09 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+>- "Forest" (https://skfb.ly/69RVV) by rhfqcntrkf is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+>- “Mini First Person Controller” (https://assetstore.unity.com/packages/tools/input-management/mini-first-person-controller-174710#content) by Simon Pasi is licensed under Standard Unity Asset Store EULA — License Type: Extension Asset
+>- “Fantasy Skybox FREE” (https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353#content) by Render Knight is licensed under Standard Unity Asset Store EULA — License Type: Extension Asset
+>- “Handpainted Grass & Ground Textures” (https://assetstore.unity.com/packages/2d/textures-materials/nature/handpainted-grass-ground-textures-187634#content) by Chromisu is licensed under Standard Unity Asset Store EULA — License Type: Extension Asset
+>- “poly forest” (https://assetstore.unity.com/packages/3d/vegetation/poly-forest-252300#content) by SQUID is licensed under Standard Unity Asset Store EULA — License Type: Extension Asset
+>- “poly coniferous forest” (https://assetstore.unity.com/packages/3d/environments/poly-coniferous-forest-277464#content) by SQUID is licensed under Standard Unity Asset Store EULA — License Type: Extension Asset
+
+
 ## Getting Started in Unity
 ![pt1](/W8_WIP/1bplaytest1.png)
 ![pt1](/W8_WIP/1bplaytest2.png)

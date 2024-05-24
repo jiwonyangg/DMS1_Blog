@@ -4,12 +4,12 @@ published_at: 2024-05-21
 snippet: Assignment 3
 ---
 # Assignment 3
-<p><a href=https://drive.google.com/file/d/1Q4y98abduUGFFUpA0tLq3JyejqOfnk6x/view?usp=sharing> Link to Assignment 3 File</p>
-*(Please use RMIT email to access files)
+<p><a href=https://drive.google.com/file/d/1Q4y98abduUGFFUpA0tLq3JyejqOfnk6x/view?usp=sharing> Link to Assignment 3 File</p>*(Please use RMIT email to access files)
+
 
 
 <p><a href=https://youtu.be/Nv3rG1Xa83I> Watch Assignment 3 Playthrough on YouTube!</p>
-https://drive.google.com/file/d/1Q4y98abduUGFFUpA0tLq3JyejqOfnk6x/view?usp=sharing 
+
 
 ## Explanation of My 3D Environment
 I wanted to convey my experience of moving schools and houses, and how that affected me emotionally as a child. The change I portrayed was how I was growing up from living an innocent childhood to facing the reality of what life had to offer. I realised from this point in my life that I had to experience change whether I wanted to or not, because life wasn't going to wait for me. This change in my comfortable lifestyle, made me uncomfortable and scared, also due to the "paranormal" experiences I briefly explained in my earlier blog post, and I wanted to express how for a short period in my life, my world felt colourless and like a dead end.
