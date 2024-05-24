@@ -11,7 +11,7 @@ snippet: Classwork - By Korea + Making a Terrain
 > The second half of this post explores what we learnt, during class, about making terrains and painting textures.
 
 ## Navigating to 'By Korea'
-![Group Photo](/static/W7/bykorea.png)
+![Group Photo](/W7/bykorea.png)
 
 **How did it go?**
 
