@@ -5,7 +5,7 @@ snippet: Assignment 3
 ---
 # Assignment 3
 - <p><a href=https://drive.google.com/file/d/1Q4y98abduUGFFUpA0tLq3JyejqOfnk6x/view?usp=sharing> Link to Assignment 3 File</p>
->Please use RMIT email to access files
+> Please use RMIT email to access files
 - <p><a href=https://youtu.be/Nv3rG1Xa83I> Watch Assignment 3 Playthrough on YouTube!</p>
 
 
