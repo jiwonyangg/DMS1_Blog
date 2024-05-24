@@ -9,8 +9,10 @@ snippet: Assignment 3
 <p><a href=https://youtu.be/Nv3rG1Xa83I> Watch Assignment 3 Playthrough on YouTube!</p>
 https://drive.google.com/file/d/1Q4y98abduUGFFUpA0tLq3JyejqOfnk6x/view?usp=sharing 
 
+## Explanation of My 3D Environment
+I wanted to convey my experience of moving schools and houses, and how that affected me emotionally as a child. The change I portrayed was how I was growing up from living an innocent childhood to facing the reality of what life had to offer. I realised from this point in my life that I had to experience change whether I wanted to or not, because life wasn't going to wait for me. This change in my comfortable lifestyle, made me uncomfortable and scared, also due to the "paranormal" experiences I briefly explained in my earlier blog post, and I wanted to express how for a short period in my life, my world felt colourless and like a dead end.
 
-
+## Sources
 **Asset Sources**
 - "8 different gold stars" (https://skfb.ly/oCLUE) by alex.yefremov is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - "Air Balloons" (https://skfb.ly/ontOs) by leha_pu is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
