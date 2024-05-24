@@ -46,12 +46,6 @@ I'm really glad that we were able to do this activity in class, because my world
 Painting the terrain is also something that will need to be included into my world. I thought that it would be annoying to paint with and control the brush using a mouse, but it was very smooth and easy. It was surprisingly more accurate than I thought and it actually looks pretty decent as well.
 
 ## Work Documentation
-![WIP](/W7/terrain1.png)
-![WIP](/W7/terrain2.png)
-![WIP](/W7/terrain3.png)
-![WIP](/W7/terrain4.png)
-![WIP](/W7/terrain5.png)
-![WIP](/W7/terrain6.png)
 ![WIP](/W7/terrain7.png)
 ![WIP](/W7/terrain8.png)
 ![WIP](/W7/terrain9.png)
