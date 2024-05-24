@@ -6,7 +6,7 @@ snippet: Homework - Experimenting with Sound
 # Experimenting with Sound
 >**Task Outline**
 >
-> After watching the Unity tutorials, we were to gather sound assets we wanted to use for and continuing to iterate our 3D environment.
+> After watching the Unity tutorials, we were to gather sound assets we wanted to use and continue iterating our 3D environment.
 
 ## Finding Sounds
 Although this session's homework was focusing on finding sounds we wanted to use for our world, I wasn't too sure at this point in time which sounds to deliver in the environment so I decided to finalise the sounds once I received feedback for more inspiration (especially because I wasn't finished with my draft after taking a break from staring at the world too long).
