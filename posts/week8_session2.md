@@ -12,8 +12,10 @@ snippet: Homework - Experimenting with Sound
 Although this session's homework was focusing on finding sounds we wanted to use for our world, I wasn't too sure at this point in time which sounds to deliver in the environment so I decided to finalise the sounds once I received feedback for more inspiration (especially because I wasn't finished with my draft after taking a break from staring at the world too long).
 
 I did, however, search through Youtube Audio Library for sounds of kids playing in a playground but I wasn't happy with what I found so I moved over to "Free Sound" and was able to successfully find a sound that I felt I could use.
-> Playground noises in Luxembourg Gardens by Mxsmanic -- https://freesound.org/s/162318/ -- License: Creative Commons 0
+>- Playground noises in Luxembourg Gardens by Mxsmanic -- https://freesound.org/s/162318/ -- License: Creative Commons 0
+
 I then searched up "School" and tried to find the most eerie, empty and creepy sounding tracks and came across these two sounds:
+
 > - 14 Moving school desk.wav by 15FPanska_Hecl_Filip -- https://freesound.org/s/461150/ -- License: Creative Commons 0
 > - Short Alarm bell in school hall (some clock ticks etc).aif by sbyandiji -- https://freesound.org/s/217486/ -- License: Creative Commons 0
 
