@@ -10,6 +10,7 @@ snippet: Classwork - Using 3D Shapes to Create a 2D Image
 ## Bridge 
 **Reference Image**
 ![bridge](/W8/bridge.png)
+
 *This photo was taken from RMIT LMS, Digital Media Studio 1: Production - Week 8: Designing Space Slides 
 
 **My Attempt**
