@@ -3,7 +3,7 @@ title: Week 7 - Session 2 (1)
 published_at: 2024-05-07
 snippet: Classwork - By Korea + Making a Terrain
 ---
-## Classwork
+# Classwork
 >**Task Outline**
 >
 > During class we were assigned to groups and were to navigate to an assigned area without using any form of maps. My group was assigned to go to 'By Korea'.
@@ -11,7 +11,7 @@ snippet: Classwork - By Korea + Making a Terrain
 > The second half of this post explores what we learnt, during class, about making terrains and painting textures.
 
 ## Navigating to 'By Korea'
-![Group Photo](/W7/bykorea.png)
+![Group Photo](/static/W7/bykorea.png)
 
 **How did it go?**
 
