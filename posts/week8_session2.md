@@ -41,7 +41,7 @@ Here you can see that I added in a texture for the sky, and I continued to modif
 ![pt1](/W8_WIP/1bplaytest23.png)
 ![pt1](/W8_WIP/1bplaytest24.png)
 
-I got sick of moving around and adjsuting assets so I started drawing in the terrain details. You can't particularly see it from this screenshot, but, I placed an arch towards the beginning where I wanted the player to start because in class we were learning about how we should help orient the user and I realised I didn't have anything much to help the user know clearly where the starting point would be. Then the points of prospect of the elevated environment, the user can gain curiousity about what's to come, like progressive lures (although in my world the lures aren't visually-attractive, rather just pikes curiousity of what would be behind this building, or what would be beyong this hill).
+I got sick of moving around and adjsuting assets so I started drawing in the terrain details. You can't particularly see it from this screenshot, but, I placed an arch towards the beginning where I wanted the player to start because in class we were learning about how we should help orient the user and I realised I didn't have anything much to help the user know clearly where the starting point would be. Then the points of prospect of the elevated environment, the user can gain curiosity about what's to come, like progressive lures (although in my world the lures aren't visually-attractive, rather just pikes curiosity of what would be behind this building, or what would be beyong this hill).
 
 ![pt1](/W8_WIP/1bplaytest25.png)
 ![pt1](/W8_WIP/1bplaytest26.png)
