@@ -1,6 +1,6 @@
 ---
 title: Week 10 - Session 2 (2)
-published_at: 2024-05-24
+published_at: 2024-05-29
 snippet: Homework - Refining Self Reflection
 ---
 # Refining Self Reflection 

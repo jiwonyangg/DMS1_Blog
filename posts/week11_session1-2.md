@@ -1,6 +1,6 @@
 ---
 title: Week 11 - Session 1 (2)
-published_at: 2024-05-29
+published_at: 2024-05-31
 snippet: Homework - Wireframing for Assignment 4
 ---
 # Wireframing for Assignment 4

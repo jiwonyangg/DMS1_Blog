@@ -1,6 +1,6 @@
 ---
 title: Week 10 - Session 2 (1)
-published_at: 2024-05-23
+published_at: 2024-05-28
 snippet: Classwork - Figma Practice
 ---
 # Starting to Use Figma

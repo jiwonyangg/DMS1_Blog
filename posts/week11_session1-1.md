@@ -1,6 +1,6 @@
 ---
 title: Week 11 - Session 1 (1)
-published_at: 2024-05-28
+published_at: 2024-05-30
 snippet: Classwork - Practicing Wireframing
 ---
 # Wireframing
