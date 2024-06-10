@@ -99,3 +99,6 @@ I’m not too sure exactly what this question is asking for, but I would assume 
 
 
 ## Artist Statement Draft
+Hi I’m Jiwon, pronounced letter “G” and number “1”! I’m an aspiring UX designer, who swapped titrations for illustrator toolbars. I focus on graphic design, making visuals that fit within constraints, while keeping my touch of colour. Join me as I grow my portfolio, one project at a time.
+
+>I was trying to make it longer, but whenever I added more sentences, I felt like I was repeating myself too much so I kept it short and snappy. But after writing this, I'm realising how hard it is to write something about myself.

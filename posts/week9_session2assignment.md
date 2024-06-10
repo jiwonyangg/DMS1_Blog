@@ -1,5 +1,5 @@
 ---
-title: Week 9 - Session 2
+title: Week 9 - Session 2 | Assignment 3
 published_at: 2024-05-21
 snippet: Assignment 3
 ---
