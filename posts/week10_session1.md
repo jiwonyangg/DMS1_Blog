@@ -99,6 +99,21 @@ I’m not too sure exactly what this question is asking for, but I would assume 
 
 
 ## Artist Statement Draft
+**Assignment 1**
+
+In this self-portrait film, through audio-visual elements, I invite the viewer to journey through my path of change. Initially confidently starting a career in science, the repetition quickly tears down my hopes and confidence, leading to taking a step into the unknown and transferring to design. Through sound, I separated the piece into three sections, materialising the context in conjunction with the visuals; beginning with optimism, diverting to emptiness and finishing with feelings of contempt. The aesthetic decisions and footage derived from how I saw the world in my perspective and how others would perceive my work-life balance, work relating to schooling. I focused on presenting the world as is, and the dilemma happening within, becoming main determinants in choosing and piecing footage. Thus, this pairing of sonic-visual components created my first ever video edit: “Change.”
+
+
+**Assignment 2**
+
+Through these suite of nine responsive icons, the theme of “community” is expressed done in a flat-design style. I named this piece “freedom” because of the vast, unending possibilities of outcomes I could’ve unfolded the theme of community. I envisioned community within the context of a game, each icon representing a interest group inspired from Korean culture, once clicked allowing the user to obtain a skin to be used within the context of the game. Extensive brainstorming of concepts and icon designs lead to the ideation of the initial design, continuously iterated to harmonise with one another. The synthesis of colour and shapes provided grounds for a predictable audio, which were utilised to emphasise the original concepts and ideas of each of the icons.
+
+
+**Assignment 3**
+
+Based on my personal experience with moving schools and houses, this change and journey of growing up inspired “Realisation”, a navigable digital three-dimensional environment. Unlike previous pieces, the audio elements guided the user’s emotions, rather than being used to describe the scene occurring in the 3D environment. This piece is separated into two segments the first half illustrating an explorable playground, and the second materialising the image of what moving schools and growing up felt like, combined with sonic elements to elevate discomfort and fear. The merging of design elements and principles, spatial design and 3D design constructed this world physicalising the first emotional transition, parallel to the self-portrait film.
+
+## Artist Biography Draft
 Hi I’m Jiwon, pronounced letter “G” and number “1”! I’m an aspiring UX designer, who swapped titrations for illustrator toolbars. I focus on graphic design, making visuals that fit within constraints, while keeping my touch of colour. Join me as I grow my portfolio, one project at a time.
 
 >I was trying to make it longer, but whenever I added more sentences, I felt like I was repeating myself too much so I kept it short and snappy. But after writing this, I'm realising how hard it is to write something about myself.

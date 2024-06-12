@@ -15,8 +15,10 @@ snippet: Homework - Wireframing for Assignment 4
 ## Wireframe 2
 ![wf2](/W11/wf2.png)
 
+
 ## Wireframe 3
 ![wf3](/W11/wf3.png)
+
 
 ## Work Documentation
 ![wip](/W11/w1.png)
