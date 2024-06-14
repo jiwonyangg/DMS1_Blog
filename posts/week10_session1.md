@@ -25,9 +25,9 @@ Because a requirement for the assignment was to draw up a storyboard explaining 
 
 **3. What did you learn about the power of sound to shape emotional experience, and how did you apply this knowledge to your project?**
 
-Prior to this project, I was aware of the impact sound had on video, but while editing I realised it could change the entire mood of the project. I found that it was actually quite fun experimenting with the sound, but because I didn’t have much time to properly experiment before submitting, so I know I couldn’t explore sound more. But for me, I think the biggest difficulty I had was maintaining the volume levels. I was aware -12 decibels was the standard level but it still felt too loud in some parts so I exported and edited more multiple times.
+Prior to this project, I was aware of the impact sound had on video, but while editing I realised it could change the entire mood of the project. I found that it was actually quite fun experimenting with the sound, but because I didn’t have much time to properly experiment before submitting, so I couldn’t explore sound more. But for me, I think the biggest difficulty I had was maintaining the volume levels. I was aware -12 decibels was the standard level but it still felt too loud in some parts so I exported and edited multiple times.
 
-**4. How does editing relate to the concepts of pacing and rhythm, and how did you use thsee concepts to shape your use of time in the project?**
+**4. How does editing relate to the concepts of pacing and rhythm, and how did you use these concepts to shape your use of time in the project?**
 
 I actually showed the passing of time visually, I had shots of a digital clock (on a computer screen) while filming shots of me “studying”. But I made the clips shorter, and therefore the cuts between shots shorter, to show the passing of time. Through the sounds I sourced, I slowed down the pace in the last portion of my video and had less cuts and more fading transitions to insinuate slower passing of time. I changed the pacing/rhythm in the middle of my video using various cuts in the video and audio, which then cut to black to mark the end of the first section’s pace/rhythm.
 
@@ -59,10 +59,10 @@ In the initial stages, I actually directly traced the thumbnail sketches I had. 
 
 **4. How did you use colour to create a sense of unity and visual interest in the icons? Why did you choose the palette that you did?**
 
-I tried limiting my colour pallet as much as possible and I reused the colours throughout the entire design (for each set). I ended up with the colours I chose because it best represented my idea I wanted to portray and I felt that those were the most visually appealing options out of all the mock ups I had done. The colours were actually based off of the real life counter-parts so I ended up with more colours than I had hoped for but I faced some difficulty with certain icons becoming quite confusing with a heavily limited colour palette. But I knew that incorporating red and blue was a must (Korean flag colours).
+I tried limiting my colour palette as much as possible and I reused the colours throughout the entire design (for each set). I ended up with the colours I chose because it best represented my idea I wanted to portray and I felt that those were the most visually appealing options out of all the mock ups I had done. The colours were actually based off of the real life counter-parts so I ended up with more colours than I had hoped for but I faced some difficulty with certain icons becoming quite confusing with a heavily limited colour palette. But I knew that incorporating red and blue was a must (Korean flag colours).
 
 
-**5. How did the elements and prinicples of sound that you used in your audience design correspond to the elements and principles of design that you used in your visual design?**
+**5. How did the elements and principles of sound that you used in your audience design correspond to the elements and principles of design that you used in your visual design?**
 
 I  focused on choosing sounds that were accurate to the real-life counterparts. I think I didn’t focus too much on how they sounded together, so now looking back on it, it feels a bit chaotic because the sounds don’t relate to one another but at the time I wanted to choose sounds that aligned to what it was like in real life. So I don’t think that I did anything on corresponding with the elements and principles.
 
@@ -78,12 +78,12 @@ When I thought of my first set of ideas it was quite broad so there were so many
 A working prototype wasn’t actually that important for my design process. But the feedback for my prototype was actually very helpful for further development, although most of the feedback I received, I was already planning on changing it for the final design. So I guess it balances out in the end, it was important to some degree but I was already thinking of those changes so it also wasn’t that big of a help for my design process. But the greybox prototype was very useful for me to realise that I didn’t like my original idea and needed to modify it.
 
 
-**2. How did your experience of designing and producing a three0dimensional environment differ from your experience of designin and producing a project in two-dimensinoal media?**
+**2. How did your experience of designing and producing a three-dimensional environment differ from your experience of designing and producing a project in two-dimensinoal media?**
 
 I can say with confidence that designing a three-dimensional environment is so much more difficult than designing and producing a project in two-dimensional media. I was so grateful that we were allowed to source all of our assets because I was so confident I wasn’t going to finish before hearing that there was no limit in sourcing our assets. I think the reason why I found it so difficult was that I would think that I moved things to where I wanted it to be, but if I looked in another perspective it wouldn’t be where I needed it to be. It also didn’t help that I’ve rarely worked with 3D environments, whereas I’m quite familiar with 2D media.
 
 
-**3. What was the rold of the virtual camera in your project, and how was it similar to and different from the role of the camera in Assignment 1?**
+**3. What was the role of the virtual camera in your project, and how was it similar to and different from the role of the camera in Assignment 1?**
 
 It was both similar and different to the role of the camera in Assignment 1. However, in assignment 3, the virtual camera was completely a first-person point-of-view so it showed first hand my path and hardships, whereas in the video for assignment 1, I had a mix of first-person views and third-person perspectives. But both played a similar role in the sense that it was depicting my personal journey and path/hardships. 
 
