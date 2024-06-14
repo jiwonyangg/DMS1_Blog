@@ -20,13 +20,14 @@ snippet: Homework - Feedback
 ## Main Takeaways From Feedback:
 - Colour of logo/name (front page) isn't cohesive with the rest of the page and is a bit bright to look at
 - The buttons look a bit messy, potentially due to colour choice
-- Makes more sense of project is shown first, instead of the progress first and then project
+- Makes more sense if project is shown first, instead of the progress first and then project
 - Potential to cut down on words, due to repetition (things explained in the artist statement is also in progress documentation)
 - Could include a clear ending, seems to end a bit abrupt
 - A bit of difficulty seeing the second assignment, due to contrast issues (grey on grey)
 
 ## Updated Artist Statement
 *Very VERY minor changes
+
 **Assignment 1**
 
 In this self-portrait film, I invite the viewer to journey through my path of change using audio-visual elements. Initially, I confidently started a career in science, but the repetitive nature of the work quickly eroded my hopes and confidence, leading me to take a step into the unknown and transfer to design. The film is divided into three sections, each defined by distinct soundscapes and visuals: beginning with optimism, moving through emptiness, and ending with feelings of contempt. The aesthetic choices and footage reflect my perspective on the world and how others might perceive my work-life balance, especially in relation to schooling. I focused on presenting the world as it was and the internal dilemmas I faced, which guided my selection and arrangement of the footage. This combination of sonic and visual components resulted in my first video edit: “Change.”
