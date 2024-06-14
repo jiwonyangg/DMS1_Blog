@@ -8,7 +8,25 @@ snippet: Homework - Feedback
 > 
 > Continue to develop the webpage, iterating using feedback, getting ready to submit the final webpage.
 
+## Draft Webpage
+*I chose to only do the desktop version because the mobile version would be essentially the same, so I didn't want to re-edit the webpages twice
+![draft](/W12/draft1.png)
+![draft](/W12/draft2.png)
+![draft](/W12/draft3.png)
+![draft](/W12/draft4.png)
+![draft](/W12/draft5.png)
+
+
+## Main Takeaways From Feedback:
+- Colour of logo/name (front page) isn't cohesive with the rest of the page and is a bit bright to look at
+- The buttons look a bit messy, potentially due to colour choice
+- Makes more sense of project is shown first, instead of the progress first and then project
+- Potential to cut down on words, due to repetition (things explained in the artist statement is also in progress documentation)
+- Could include a clear ending, seems to end a bit abrupt
+- A bit of difficulty seeing the second assignment, due to contrast issues (grey on grey)
+
 ## Updated Artist Statement
+*Very VERY minor changes
 **Assignment 1**
 
 In this self-portrait film, I invite the viewer to journey through my path of change using audio-visual elements. Initially, I confidently started a career in science, but the repetitive nature of the work quickly eroded my hopes and confidence, leading me to take a step into the unknown and transfer to design. The film is divided into three sections, each defined by distinct soundscapes and visuals: beginning with optimism, moving through emptiness, and ending with feelings of contempt. The aesthetic choices and footage reflect my perspective on the world and how others might perceive my work-life balance, especially in relation to schooling. I focused on presenting the world as it was and the internal dilemmas I faced, which guided my selection and arrangement of the footage. This combination of sonic and visual components resulted in my first video edit: “Change.”
@@ -23,6 +41,8 @@ Based on my personal experience with moving schools and houses, this journey of 
 
 
 ## Updated Written Documentation
+I shortened down as much as I could because I also felt I was getting too repetitive.
+
 **Assignment 1**
 
 Change: Something different, modified, altered from its original state
@@ -71,3 +91,11 @@ But my approach to sound in this final project was slightly different. I made su
 For example, the disconnecting sounds in “Change” was forcing the audience to feel the insanity, rather than being a guide.
 
 Iterating from feedback, and repetition of editing and testing got me to the final destination for “Realisation.”
+
+## Work Documentation
+![mobile](W12/bwip6.png)
+![mobile](W12/bwip5.png)
+![mobile](W12/bwip4.png)
+![mobile](W12/bwip3.png)
+![mobile](W12/bwip2.png)
+![mobile](W12/bwip1.png)
