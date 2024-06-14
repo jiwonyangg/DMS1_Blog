@@ -6,14 +6,12 @@ snippet: Homework - Refining Self Reflection
 # Refining Self Reflection 
 >**Task Outline**
 >
-> Based off of our answers in 'Week 10 - Session 1', we needed to start formalising the written components of our webpage that framed our progress and work over the semester. 
+> Based off of answers in 'Week 10 - Session 1', start formalising the written components of the webpage that framed your progress and work over the semester. 
 
 ## Written Documentation for Webpage
 **Assignment 1**
 
 Change: Something different, modified, altered from its original state
-
-I chose to depict my change from lab coats to using Adobe.
 
 I chose to depict my change from transferring into a design degree, coming from a science degree. It starts off with initial excitement of entering university, but slowly turned to madness from repetitive days and not knowing where this repetition was going to lead me. I made the drastic decision to transfer to design, and chose to express my early doubts which later changed to eagerness to learn and anticipation.
 
@@ -43,7 +41,7 @@ Following the repetitive testing sessions, I finally came to a completed set of 
 
 **Assignment 3**
 
-Realisation: blah blah blah
+Realisation: Coming to understand, become fully aware
 
 This was by far the hardest project to tackle. I hadn’t touched anything 3D related for many years and my past experience with 3D were simple 3D printing projects. So it was important for me to solidify my ideas to be within my skill level, something I could build.
 
@@ -75,6 +73,3 @@ Based on my personal experience with moving schools and houses, this journey of 
 ## Refined Artist Biography
 Hi I’m Jiwon, pronounced letter “G” and number “1”! I’m an aspiring UI/UX designer, an ordinary student who swapped out pipettes for digital eyedroppers. I focus on 2D environments, making visuals that fit the rules, while keeping my flair for details. My inspiration draws from what I want to change, what I feel could be improved. So join me as I grow my drafts, one pixel at a time!
 
-## Elements for Blog
-- what i want to add for the blog
-- what colours
