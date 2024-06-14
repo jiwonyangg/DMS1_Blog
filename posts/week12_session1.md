@@ -10,11 +10,11 @@ snippet: Homework - Feedback
 
 ## Draft Webpage
 *I chose to only do the desktop version because the mobile version would be essentially the same, so I didn't want to re-edit the webpages twice
-![draft](/W12/draft1.png)
-![draft](/W12/draft2.png)
-![draft](/W12/draft3.png)
-![draft](/W12/draft4.png)
 ![draft](/W12/draft5.png)
+![draft](/W12/draft4.png)
+![draft](/W12/draft3.png)
+![draft](/W12/draft2.png)
+![draft](/W12/draft1.png)
 
 
 ## Main Takeaways From Feedback:
