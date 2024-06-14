@@ -93,6 +93,16 @@ For example, the disconnecting sounds in “Change” was forcing the audience t
 Iterating from feedback, and repetition of editing and testing got me to the final destination for “Realisation.”
 
 ## Work Documentation
+Things I changed:
+- Order: I moved the final projects to the front, BEFORE all of the progress
+- Colour: Slightly modified the colour (still has good contrast for readability). I changed the front page colour, so that it isn't harsh for the eye and it's cohesive with the rest of the page. And I added a border so that the grey on grey is more easily visible (with the very slight modification of the grey)
+- Work Documentation: I shortened the length of certain paragraphs. I also modified the leading and tracking of the text because I noticed it could potentially be a bit difficult to read.
+- Buttons: For increased accessibility, I added buttons after each assignment so that users would be able to quickly navigate throughout the page easily.
+- Prototype Interactions: I changed the desktop interactions to work on a mobile and made slight changes such as "tap" instead of "click" because you can't click without a mouse on a mobile device (and other very minor interaction changes).
+- Closing: Added the text "The end for now." so that the user clearly can see where the progress ends, since I changed the order of the webpage.
+- Sizing: I slightly increased the sizing of certain elements so that it was more consistent with elements throughout the entire webpage.
+- Difference between mobile and desktop: Because mobile is obviously smaller than a desktop screen, I made sure the images were more visible (changing the layouts to have 2 columns or 3), but I wasn't focused on enlarging it too much because I don't want the focus to be too diverted.
+
 ![mobile](W12/bwip6.png)
 ![mobile](W12/bwip5.png)
 ![mobile](W12/bwip4.png)
