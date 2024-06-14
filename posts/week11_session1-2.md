@@ -10,6 +10,7 @@ snippet: Homework - Wireframing for Assignment 4
 
 *The greys are just a guide and not the colour palette I'm aiming to use
 As mentioned in my previous blog post, I chose to use Figma to design my wireframes, because I found it to be easiest and most accessible to use.
+- I'm planning to include my logo into my webpage. The logo was just something I used throughout Visual Communication Design in school, as my folio identifier.
 
 ## Wireframe 1
 ![wf1](/W11/wf1.png)
